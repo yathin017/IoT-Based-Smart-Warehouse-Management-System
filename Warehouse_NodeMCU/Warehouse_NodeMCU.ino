@@ -39,8 +39,8 @@ int Alcohol;  //variable to store sensor value
 int ldrval=0;
 
 // FireBase setup
-#define FIREBASE_HOST "nodemcu-test-44f73-default-rtdb.asia-southeast1.firebasedatabase.app" //--> URL address of Firebase Realtime Database.
-#define FIREBASE_AUTH "6miFtstbJbDzLNICCdHTtzlEPVgiJWNOBVK2Pw6U" //--> database secret code.
+#define FIREBASE_HOST " " //--> URL address of Firebase Realtime Database.
+#define FIREBASE_AUTH " " //--> database secret code.
 
 //DHT-11 Setup
 #define DHTTYPE DHT11 //--> Defines the type of DHT sensor used (DHT11, DHT21, and DHT22), in this project the sensor used is DHT11.
